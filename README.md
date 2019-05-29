@@ -6,7 +6,8 @@
     "version": "0.0.1",
     "permissions": [
         "activeTab"
-    ]
+    ],
+    "image-api": "https://placedog.net/"
 }
 ```
 
